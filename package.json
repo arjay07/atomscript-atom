@@ -1,6 +1,6 @@
 {
   "name": "AtomScript",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "AtomScript support in Atom.",
   "engines": {
     "atom": "*"
