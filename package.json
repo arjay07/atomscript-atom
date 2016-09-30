@@ -8,10 +8,10 @@
     "dependencies": {},
     "repository": {
         "type": "git",
-        "url": "https://github.com/arjay07/AtomScript/support/Atom/AtomScript"
+        "url": "https://github.com/arjay07/atomscript-atom"
     },
     "bugs": {
-        "url": "https://github.com/arjay07/AtomScript/support/Atom/AtomScript/issues"
+        "url": "https://github.com/arjay07/atomscript-atom/issues"
     },
     "license": "MIT"
 }
